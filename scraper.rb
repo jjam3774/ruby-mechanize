@@ -1,3 +1,4 @@
+require 'scraperwiki'
 ###############################################################################
 # START HERE: Tutorial for scraping pages behind form, using the
 # very powerful mechanize library. Documentation is here: 
